@@ -1,0 +1,22 @@
+1. Country: The name of the country.
+2. Year: The year in which the data was recorded.
+3. Status: The development status of the country (developed or developing).
+4. Life.expectancy: The average life expectancy in years.
+5. Adult.Mortality: The probability of dying between 15 and 60 years per 1000 population.
+6. infant.deaths: The number of infant deaths per 1000 live births.
+8. percentage.expenditure: Expenditure on health as a percentage of the GDP per capita.
+7. Alcohol: Total alcohol consumption per capita (in liters of pure alcohol).
+9. Hepatitis.B: Hepatitis B immunization coverage among 1-year-olds (percentage).
+10. Measles: Number of reported measles cases per 1000 population.
+11. BMI: Average Body Mass Index of the population.
+12. under.five.deaths: Number of under-five deaths per 1000 live births.
+13. Polio: Polio immunization coverage among 1-year-olds (percentage).
+14. Total.expenditure: General government expenditure on health as a percentage of total government expenditure.
+15. Diphtheria: Diphtheria immunization coverage among 1-year-olds (percentage).
+16. HIV.AIDS: Deaths per 1,000 live births due to HIV/AIDS.
+17. GDP: Gross Domestic Product per capita in USD.
+18. Population: The population of the country.
+19. thinness..1.19.years: Prevalence of thinness among children aged 1-19 years (percentage).
+20. thinness.5.9.years: Prevalence of thinness among children aged 5-9 years (percentage).
+21. Income.composition.of.resources: Human Development Index (HDI) of income composition of resources.
+22. Schooling: Average number of years of schooling for the population.
